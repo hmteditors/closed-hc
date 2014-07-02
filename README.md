@@ -8,7 +8,7 @@ Editing HMT material at the College of the Holy Cross
 
 Basic infrastructure for working with digital representations of manuscripts:
 
-- to be determined
+- create composite images of bifolio spreads for Venetus B
 
 
 Advanced editing work:
