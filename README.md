@@ -13,4 +13,4 @@ Basic infrastructure for working with digital representations of manuscripts:
 
 Advanced editing work:
 
-- *Iliad* 14-15 in the Venetus A
+- *Iliad* 14-15 in the Venetus A.  (*Iliad* 14 work is in the standard HMT directory locations;  *Iliad* 15 work is in an identically organized subdirectory called `iliad15`.)
