@@ -4,7 +4,23 @@
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Inter-marginal Scholia</title>
-                <author>YOUR NAME HERE</author>
+                <editor>Evans Martinez</editor>
+                <editor>Chase Bradford</editor>
+                <editor>Kenneth Calemno</editor>
+                <editor>Hillary Duffy</editor>
+                <editor>Sadie Sisk</editor>
+                <editor>James Fox</editor>
+                <editor>Eliza Gettel</editor>
+                <editor>Jeff Godowski</editor>
+                <editor>Anne Salloom</editor>
+                <editor>Michael Russo</editor>
+                <editor>William Johnson</editor>
+                <editor>Nick Powers</editor>
+                <editor>Alex Dobens</editor>
+                <editor>Debbie Chu</editor>
+                <editor>Mark Hogan</editor>
+                <editor>Christine Roughan</editor>
+                <editor>Matt Angiollilo</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -18,17 +34,724 @@
         <group n="12">
             <text n="msAim">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:12.1" type="scholion">
+                    <!-- start of work completed in 2011 Homer Seminar -->
+                    <div n="14.B1"
+                        ana="xx, Dindorf 16"
+                        
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.16</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἐν τῆ <persName>ζηνοδότου</persName> πορφύρει διὰ τῆς <rs type="waw">ει</rs></p>
+                        </div>
+                    </div>
+                    <div n="14.B2"
+                        ana="xx, Dindorf 18"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.18</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>οὑτως οὐδ'ἀρα τε διὰ τοῦ <rs type="waw">τε</rs> αἱ <persName>ἀριστάρχου</persName></p>
+                        </div>
+                    </div>
+                    <div n="14.B3"
+                        ana="xx, Dindorf 25"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.25</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ὁτι ὁ ἐναχρ σημ βούλεται δὲ νῦν ἀντὶ τοῦ ἐλελήκει</p>
+                        </div>
+                    </div>
+                    <div n="14.B4"
+                        ana="xx, Dindorf 28"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.28</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ὁτι συλλητικῶς εἰρηκεν βεβλήατο επι τῶν ουτασμενων</p>
+                        </div>
+                    </div>
+                    <div n="14.B5"
+                        ana="45b"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.45</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p><persName>ἀριστοφάνης</persName> ὁς ποτε δια τοῦ γραφει</p>
+                        </div>
+                    </div>
+                    <div
+                        ana="14.69"
+                        n="14.E1"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.69</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ὅτι αντὶ έοικεν</p>
+                        </div>
+                    </div>
+                    <div
+                        ana="14.81"
+                        n="14.E2"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.81</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἐλλείπει τὸ ἠ μείνας ἀλώῃ,</p>
+                        </div>
+                    </div>
+                    <div
+                        ana="14.92"
+                        n="14.E3"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.92</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p> οὕτως ἐπίσταιτο:</p>
+                        </div>
+                    </div>
+                    <div
+                        ana="14.112a.1"
+                        n="14.E4"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.112</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>οὕτως νεώτατος ὑπερθετικῶς ὡμολογουν ἅπασαι:</p>
+                        </div>
+                    </div>
+                    <div
+                        ana="14.116a"
+                        n="14.E5"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.116</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>οὗτος ὁ στίχος μεταξὺ κεῖται· τὸ δὲ ἑξῆς <q><persName>Άγριος</persName> ἡ δὲ <persName>Μέλας</persName></q> (Ξ 117)</p>
+                        </div>
+                    </div>
+                    <div
+                        ana="14.118a.1"
+                        n="14.E6"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.118</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>οὕτως <persName>Αρίσταρχος</persName> <persName>Ζηνόδοτος</persName> δὲ "εμεῖο" οὐκ ὀρθῶς</p>
+                        </div>
+                    </div>
+                    <div
+                        ana="14.119b.1"
+                        n="14.E7"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.119</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>γράφεται καὶ "αὐτοῦ" ὡς <q>αὐτοῦ οἱ καὶ σῆμα τετεύξεται</q> (Φ 322):</p>
+                        </div>
+                    </div>
+                    <div
+                        ana="14.125b.2"
+                        n="14.E8"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.125</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p> <persName>Ἀρίσταρχος</persName> "εἰ ετεόν περ"</p>
+                        </div>
+                    </div>
+                    
+                    <div
+                        n="14.G1"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.145</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἐν <choice><abbr>αλλ</abbr><expan>ἄλλῳ</expan></choice>συ δ’ επόψεαι αυτους  ⁑</p>
+                        </div>
+                    </div>
+                    <div
+                        n="14.G2"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div
+                            type="ref">
+                            <p>14.147</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ὅτι <choice><abbr>ἐλλειπ</abbr><expan>ἐλλείπει</expan></choice> ἡ διὰ δια πεδίον</p>
+                        </div>
+                    </div>
+                    <div
+                        
+                        n="14.G3"
+                        type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p> 14.153</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>  παραγραπτεον ἐπάνω δια τὸ ετέρων πραγμάτων ἀρχὴν εῖναι</p>
+                        </div>
+                    </div>
+                    <div
+                        
+                        n="14.G4"
+                        type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>14.157 </p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p> <persName>αρισταρχος</persName> πολυπίδακος αλλοι δὲ πολύπίδακου  </p>
+                        </div>
+                    </div>
+                    <div
+                        
+                        n="14.G5"
+                        type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.163 </p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἐν αλλῳ. ὅπως ϊμείραιτο </p>
+                        </div>
+                    </div>
+                    <div
+                        
+                        n="14.G6"
+                        type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p> 14.167</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p> ὅτι πληθυντικῶς τήν θύραν θύρας </p>
+                        </div>
+                    </div>
+                    <div
+                        
+                        n="14.G7"
+                        type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p> 14.173</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p> <persName>αρισταρχος</persName> κατα χαλκοβατεὶ</p>
+                        </div>
+                    </div>
+                    <div
+                        n="14.G8"
+                        type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.177 </p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p> <persName>ζηνοδοτος</persName> <persName>αριστοφανης</persName> καλὸυς καὶ μεγάλους </p>
+                        </div>
+                    </div>
+                    
+                    <div
+                        n="14.C1"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.185</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἐν αλλῳ λαμπρον δ’ ἦν: </p>
+                        </div>
+                    </div>
+                    <div
+                        n="14.C2"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.195</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἐν αλλῳ ἀνώγει: </p>
+                        </div>
+                    </div>
+                    <div
+                        n="14.C3"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.198</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἐν αλλῳ δὸς νῦν μοι νῦν, </p>
+                        </div>
+                    </div>
+                    <div n="14.C4" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.203</p>
+                        </div>
+                        <div type="comment">
+                            <p>δια τοῦ “α” “ρείας” ἁι <name>’Αρισταρχος</name> ουτως καὶ
+                                <name>’Aριστοφανης</name>:</p>
+                        </div>
+                    </div>
+                    <div n="14.C5" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.216</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔν τισι τῶν ὑπο μνηματων ἠδ’ ὀαριστύς:</p>
+                        </div>
+                    </div>
+                    <div n="14.C6" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.218</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι πτῶσις ἐνηλακται αντι ἀυτῆς ταῖς χερσεν:</p>
+                        </div>
+                    </div>
+                    <div n="14.C7" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.223</p>
+                        </div>
+                        <div type="comment">
+                            <p><name>’Αρισταρχος</name> μέσωι ἄλλοι δὲ εωί. </p>
+                        </div>
+                    </div>
+                    <div n="14.C8" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.227</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν αλλων ἐσσυτ’’εφ ἱπποπόλων⁑</p>
+                        </div>
+                    </div>
+                    <div n="14.C9" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.229</p>
+                        </div>
+                        <div type="comment">
+                            <p><name>Ζηνοδοτος </name>καὶ <name>’Αριστοφανησ</name> ἐς πόντον εβήσετο καὶ
+                                μηποτε ἄ μεινον·</p>
+                        </div>
+                    </div>
+                    <div n="14.C10" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.235</p>
+                        </div>
+                        <div type="comment">
+                            <p><name>’Αρισταρχος</name> χάριν ἐιδέω ἁι δε δημωδεις εἰδέω χαριν:</p>
+                        </div>
+                    </div>
+                    <div n="14.C11" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.241</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως <name>‘Ηρωδιανὸς</name> ἐπίσχυες: </p>
+                        </div>
+                    </div>
+                    <div n="14.C12" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.242</p>
+                        </div>
+                        <div type="comment">
+                            <p>νήδυμος συν τῶι <rs type="waw">ν</rs></p>
+                        </div>
+                    </div>
+                    <div n="14.C13" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.249</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως κατευθείαν ἄλλο τεὴ· καὶ <name>’Αρισταρχος</name> καὶ
+                                <name>‘Ηρωδιανοσ</name>⁑</p>
+                        </div>
+                    </div>
+                    <div
+                        n="A1"
+                        type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.340</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p><persName>Ζηνόδοτος</persName> καὶ <persName>Ἀριστοφανης</persName> επεὶ νύ
+                                τοι εὔαδεν εὐνήν⁑</p>
+                        </div>
+                    </div>
+                    <div
+                        n="A2"
+                        type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.351</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p><choice>
+                                <abbr>Ζηνόδ</abbr>
+                                <expan><persName>Ζηνόδοτος</persName></expan>
+                            </choice> ἐπέπιπτον⁑</p>
+                        </div>
+                    </div>
+                    <div
+                        n="A3"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.354</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p><choice><abbr>οτ</abbr> <expan>οτι</expan></choice> συν <choice><abbr>τ</abbr> <expan>τω</expan></choice>  <rs type="waw">ν</rs> <choice><abbr>νη</abbr> <expan>νηδυμος</expan></choice> 
+                            </p>
+                        </div>
+                    </div>
+                    <div
+                        n="A4"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.359</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἐν αλλω κωμ' ἐκαλυψ:</p>
+                        </div>
+                    </div>
+                    <div
+                        n="A5"
+                        type="scholion">
+                        <div
+                            type="lemma"/>
+                        <div type="ref">
+                            <p>14.371</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ὑποστικτεον <choice><abbr>κατ</abbr> <expan>κατα</expan></choice>  τὸ τέλος
+                                τοῦ στίχου λείπει γὰρ τὸ εισί⁑</p>
+                        </div>
+                    </div>
+                    <div n="A6" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.376</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                <abbr>Αρισταρx</abbr>
+                                <expan><persName>Αρισταρχος</persName></expan>
+                            </choice> διὰ τῆς <rs type="waw">ει</rs> διφθόγγου <rs type="waw">ἔχει</rs>
+                                ⁑ </p>
+                        </div>
+                    </div>
+                    
+                    <!-- SadieJames Team only 2 of the intermarginals were edited -->
+                    <div n="14.D1" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>14.379</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι συλληπτικῶς εἴρηκεν οὐτασμένων τινῶν καὶ βεβλημένων.</p>
+                        </div>
+                    </div>
+                    <div n="14.D2" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>14.398</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως διὰ τοῦ τόσσον γε.</p>
+                        </div>
+                    </div>
+                    <div n="14.D3" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>14.X</p>
                         </div>
                         <div type="comment">
                             <p></p>
                         </div>
                     </div>
+                    <div n="14.D4" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>14.X</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="14.D5" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>14.X</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div><div n="14.D6" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>14.X</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="14.D7" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>14.X</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="14.D8" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>14.X</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="14.F1" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.456</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως κόμισε <choice>
+                                <abbr>χω</abbr>
+                                <expan>χωρὶς</expan>
+                            </choice> του ν‾⁑</p>
+                        </div>
+                    </div>
+                    <div n="14.F2" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.467-8</p>
+                        </div>
+                        <div type="comment">
+                            <p>η κεφαλη προέλαβε τὰ κάτω πίπτοντα⁑</p>
+                        </div>
+                    </div>
+                    <div n="14.F3" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.469</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                <seg type="word"><abbr>Ζηνο<choice>
+                                    <sic>τ</sic>
+                                    <corr>δ</corr>
+                                </choice></abbr></seg>
+                                <expan><persName>Ζηνόδοτος</persName></expan>
+                            </choice>ἀμύμονα<persName> Πουλυδάμαντα</persName></p>
+                        </div>
+                    </div>
+                    <div n="14.F4" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.472</p>
+                        </div>
+                        <div type="comment">
+                            <p>ΐσως<choice>
+                                <abbr>λ</abbr>
+                                <expan>λείπει</expan>
+                            </choice> δε τὸ δοκεῖ σοι⋅</p>
+                        </div>
+                    </div>
+                    <div n="14.F5" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.472</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                <abbr>Αριστοφα</abbr>
+                                <expan><persName>Αριστοφάνης</persName></expan>
+                            </choice> αὐτῷ γάρ ρα φυὴν ἄγχιστα ἔοικεν⁑</p>
+                        </div>
+                    </div>
+                    <div n="14.F6" type="scholion">
+                        <div type="lemma"/>
+                        <div type="ref">
+                            <p>14.477</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὸ ὃς <persName>Χρύσην</persName> ἀμφιβέβηκας ὅτι<choice>
+                                <abbr>εστ</abbr>
+                                <expan>ἐστὶν</expan>
+                            </choice>ὑπερμαχεῖς</p>
+                        </div>
+                    </div>
+                    <div n="14.F7" type="scholion">
+                        <div type="lemma">
+                            <p> </p>
+                        </div>
+                        <div type="ref">
+                            <p>14.483 </p>
+                        </div>
+                        <div type="comment">
+                            <p> ἐν αλλῳ ἔγχει εμῶ μί τοι τι⁑</p>
+                        </div>
+                    </div>
+                    <div n="14.F8" type="scholion">
+                        <div type="lemma">
+                            <p> </p>
+                        </div>
+                        <div type="ref">
+                            <p>14.506 </p>
+                        </div>
+                        <div type="comment">
+                            <p> γράφεται <q>τοὺς ἄρα πάντας ὑπὸ χλωρὸν ἀέος εῖλεν</q>⁑</p>
+                        </div>
+                    </div>
+                    <div  n="14.F9" type="scholion">
+                        <div type="lemma">
+                            <p> </p>
+                        </div>
+                        <div type="ref">
+                            <p>14.517 </p>
+                        </div>
+                        <div type="comment">
+                            <p> γράφεται <q>οὔτα κατὰ λαπάρην</q>⁑</p>
+                        </div>
+                    </div>
+                    <div  n="14.F10" type="scholion">
+                        <div type="lemma">
+                            <p> </p>
+                        </div>
+                        <div type="ref">
+                            <p>14.518 </p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι παρετυμολογεῖ τὴν ὠτειλὴν ἀπo τοῦ οὔτασε⁑</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <!-- end of work completed in 2011 Homer Seminar -->
+                    
                 </body>
             </text>
         </group>
